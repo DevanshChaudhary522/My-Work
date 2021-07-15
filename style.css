@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+img {
+    width: 450px;
+    height: 450px;
+    
+}
+#myCarousel {
+    background-color: burlywood;
+}
+#myCarousel img{
+    height: 400px;
+    margin-top: 25px;
+}
+.carousel-inner p{
+    color: cadetblue;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
